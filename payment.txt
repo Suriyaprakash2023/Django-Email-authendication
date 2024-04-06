@@ -2,7 +2,8 @@
 from flask import Flask, render_template, request, redirect, url_for
 import stripe
 
-plugin the new line 
+remove old lines 
+
 
 # Initialize Flask app
 app = Flask(__name__)
@@ -98,4 +99,4 @@ def payment_success():
     return render_template('payment_success.html')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, port=5000)
