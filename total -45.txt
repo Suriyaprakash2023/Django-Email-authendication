@@ -1,0 +1,15 @@
+total -45
+1st 2.40sec
+2-11 -0.20sec
+12th 0.50sec
+13-20 0.20sec
+21st 0.70sec
+22nd 0.45sec
+23-41-0.20sec
+42-0.55sec
+43-1.80sec
+44-1.45sec
+45-2.20sec
+
+tip- zooin zoomout every alternate pic
+1080p 60fps bit 40 rate -export
