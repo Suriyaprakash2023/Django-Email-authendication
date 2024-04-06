@@ -2,6 +2,7 @@
 from flask import Flask, render_template, request, redirect, url_for
 import stripe
 
+plugin the new line 
 
 # Initialize Flask app
 app = Flask(__name__)

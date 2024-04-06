@@ -13,3 +13,6 @@ total -45
 
 tip- zooin zoomout every alternate pic
 1080p 60fps bit 40 rate -export
+
+
+this is second branch text allter now
